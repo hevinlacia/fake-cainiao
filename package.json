@@ -1,0 +1,8 @@
+{
+  "name": "fake-cainiao",
+  "version": "1.0.0",
+  "description": "本地 mock 菜鸟云打印客户端(骗前端用,只让 web 端以为打印成功)",
+  "main": "fake-cainiao.js",
+  "scripts": { "start": "node fake-cainiao.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
